@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders header correctly 1`] = `
+<View
+  style={
+    {
+      "alignContent": "center",
+      "alignItems": "center",
+      "backgroundColor": "transparent",
+      "flex": 1,
+      "fontSize": 16,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text>
+    Information
+  </Text>
+</View>
+`;
